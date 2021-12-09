@@ -25,7 +25,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           I'm Sharooq Salaudeen. This website is my blog, a compendium of the things I've learned and created over the years. Find
-          Guides, Projects, and inspirational content to pursue your passion.
+          Guides, Projects, and inspirational content to pursue your passion. Version 1.1.
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
